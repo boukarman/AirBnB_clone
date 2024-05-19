@@ -76,7 +76,7 @@ Usage: create <class_name>
 (hbnb) create BaseModel File
 ```
 ```
-(hbnb) create BaseModel
+(hbnb) create BaseModel file
 3aa5babc-efb6-4041-bfe9-3cc9727588f8
 (hbnb)                   
 ```
