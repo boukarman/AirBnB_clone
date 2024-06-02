@@ -1,11 +1,15 @@
+/*
+#################################
+FOOTER FILE
+#################################
+*/
+
 footer {
-    	position: fixed;
-    	bottom: 0;
-    	background-color: #00FF00;
-    	height: 60px;
-    	width: 100%;
-}
-footer p {
-    	text-align: center;
-    	margin: 20px;
+	background-color: #00FF00;
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	line-height: 60px;
+	position: absolute;
+	bottom: 0%;
 }
